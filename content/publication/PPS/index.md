@@ -2,7 +2,7 @@
 title: "Persistent Path-Spectral (PPS) Based Machine Learning for Protein–Ligand Binding Affinity Prediction"
 authors: 
   - Ran Liu
-  - Xiang Liu
+  - admin
   - Jie Wu
 date: "2023-01-01T00:00:00Z"
 doi: ""
