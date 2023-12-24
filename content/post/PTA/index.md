@@ -20,13 +20,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
 
 authors:
   - Xiang Liu
@@ -47,9 +40,3 @@ categories:
 Persistent Tor-Algebra is a combination of the filtration idea and the Tor-Algebra in homological algebra, which is inherently algebraic data analysis mathematically.
 ![folder structure](featured.jpg) 
 
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
