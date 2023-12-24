@@ -40,4 +40,4 @@ categories:
 
 ## Overview
 Persistent Hypergraph is a combination of the hypergraph filtration and the mathematical invariants from topology and geometry, like homology and spectral.
- ![image](PTA_poster.png) 
+ ![image](Persistent Hypergraph_00.jpg) 
