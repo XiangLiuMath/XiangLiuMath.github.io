@@ -33,7 +33,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://academic.oup.com/bib/article/22/5/bbab127/6219114
-url_code: ''
+url_code: https://github.com/LiuXiangMath/Persistent-Spectral-Hypergraph
 url_dataset: ''
 url_poster: ''
 url_project: ''
