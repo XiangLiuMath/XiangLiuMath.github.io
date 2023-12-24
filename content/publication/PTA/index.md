@@ -1,7 +1,7 @@
 ---
 title: "Persistent Tor-algebra for protein–protein interaction analysis"
 authors: 
-  - Xiang Liu
+  - admin
   - Huitao Feng
   - Zhi Lü
   - Kelin Xia
@@ -17,7 +17,7 @@ publishDate: "2023-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Briefings in Bioinformatics, 24(2) 2023;, bbad046, https://doi.org/10.1093/bib/bbad046"
+publication: "Briefings in Bioinformatics, 24(2) 2023;, bbad046"
 publication_short: ""
 
 abstract: Protein–protein interactions (PPIs) play crucial roles in almost all biological processes from cell-signaling and membrane transport to metabolism and immune systems. Efficient characterization of PPIs at the molecular level is key to the fundamental understanding of PPI mechanisms. Even with the gigantic amount of PPI models from graphs, networks, geometry and topology, it remains as a great challenge to design functional models that efficiently characterize the complicated multiphysical information within PPIs. Here we propose persistent Tor-algebra (PTA) model for a unified algebraic representation of the multiphysical interactions. Mathematically, our PTA is inherently algebraic data analysis. In our PTA model, protein structures and interactions are described as a series of face rings and Tor modules, from which PTA model is developed. The multiphysical information within/between biomolecules are implicitly characterized by PTA and further represented as PTA barcodes. To test our PTA models, we consider PTA-based ensemble learning for PPI binding affinity prediction. The two most commonly used datasets, i.e. SKEMPI and AB-Bind, are employed. It has been found that our model outperforms all the existing models as far as we know. Mathematically, our PTA model provides a highly efficient way for the characterization of molecular structures and interactions.
