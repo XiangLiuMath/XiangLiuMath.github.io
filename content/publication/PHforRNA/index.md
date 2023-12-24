@@ -2,7 +2,7 @@
 title: "Persistent Homology for RNA Data Analysis"
 authors: 
   - Kelin Xia
-  - Xiang Liu
+  - admin
   - Junjie Wee
 date: "2023-03-01T00:00:00Z"
 doi: ""
