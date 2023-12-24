@@ -14,7 +14,7 @@ address:
   # postcode: '94305'
   country: China
 
-summary: BIMSA workshop on digraph topology and GLMY theory.
+summary: Advances in Homotopy Theory IV
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
