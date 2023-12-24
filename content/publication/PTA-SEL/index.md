@@ -1,7 +1,7 @@
 ---
 title: "Persistent Tor-algebra based stacking ensemble learning (PTA-SEL) for protein-protein binding affinity prediction"
 authors: 
-  - Xiang Liu
+  - admin
   - Kelin Xia
 date: "2022-09-01T00:00:00Z"
 doi: ""
