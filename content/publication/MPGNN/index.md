@@ -2,7 +2,7 @@
 title: "Multiphysical graph neural network (MP-GNN) for COVID-19 drug design"
 authors: 
   - Li Xiao-Shuang
-  - Xiang Liu
+  - admin
   - Le Lu
   - Xian-Sheng Hua
   - Ying Chi
