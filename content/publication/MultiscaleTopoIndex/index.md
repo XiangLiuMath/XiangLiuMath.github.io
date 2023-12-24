@@ -3,7 +3,7 @@ title: "Multiscale Topological Indices for the Quantitative Prediction of SARS C
 authors:
   - Jialin Bi
   - JunJie Wee
-  - Xiang Liu
+  - admin
   - Cunquan Qu
   - Guanghui Wang
   - Kelin Xia
