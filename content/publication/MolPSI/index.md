@@ -5,7 +5,7 @@ authors:
   - Ying Chi
   - Xiao-Shuang Li
   - Zhenyu Meng
-  - Xiang Liu
+  - admin
   - Xian-Sheng Hua
   - Kelin Xia
 
