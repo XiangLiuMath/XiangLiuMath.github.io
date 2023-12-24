@@ -32,7 +32,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.jcim.2c01251
-url_code: ''
+url_code: https://github.com/LiuRanMath/Persistent-path-spectral-based-ML
 url_dataset: ''
 url_poster: ''
 url_project: ''
