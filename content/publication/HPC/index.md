@@ -1,7 +1,7 @@
 ---
 title: "Hypergraph based persistent cohomology (HPC) for molecular representations in drug design"
 authors: 
-  - Xiang Liu
+  - admin
   - Xiangjun Wang
   - Jie Wu
   - Kelin Xia
