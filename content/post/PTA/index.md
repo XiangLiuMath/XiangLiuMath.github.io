@@ -38,5 +38,5 @@ categories:
 
 ## Overview
 Persistent Tor-Algebra is a combination of the filtration idea and the Tor-Algebra in homological algebra, which is inherently algebraic data analysis mathematically.
- ![folder structure](PTA_poster.png) 
+ ![image](PTA_poster.png) 
 
