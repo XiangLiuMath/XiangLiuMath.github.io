@@ -1,7 +1,7 @@
 ---
 title: "Neighborhood Complex Based Machine Learning (NCML) Models for Drug Design"
 authors: 
-  - Xiang Liu
+  - admin
   - Kelin Xia
 date: "2021-09-01T00:00:00Z"
 doi: ""
