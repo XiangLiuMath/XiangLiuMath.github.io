@@ -1,7 +1,7 @@
 ---
 title: "Dowker complex based machine learning (DCML) models for protein-ligand binding affinity prediction"
 authors:
-  - Xiang Liu
+  - admin
   - Huitao Feng
   - Jie Wu
   - Kelin Xia
