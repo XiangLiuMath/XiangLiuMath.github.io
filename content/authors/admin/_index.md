@@ -36,14 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Mathematics
-      institution: Nankai University
+    - course: Ph.D in Mathematics
+      institution: Chern Institute of Mathematics, Nankai University
       year: 2021-2024
-    - course: Master in Mathematics
-      institution: Nankai University
+    - course: M.S in Mathematics
+      institution: School of Mathematical Sciences, Nankai University
       year: 2017-2020
-    - course: BSc in Software Engineering
-      institution: Jilin University
+    - course: B.E in Software Engineering
+      institution: College of Software, Jilin University
       year: 2013-2017
 
 # Skills
