@@ -30,7 +30,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://proceedings.mlr.press/v196/liu22a.html
-url_code: ''
+url_code: https://github.com/LiuXiangMath/PTA-SEL
 url_dataset: ''
 url_poster: ''
 url_project: ''
