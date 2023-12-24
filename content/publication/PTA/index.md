@@ -32,7 +32,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://academic.oup.com/bib/article-abstract/24/2/bbad046/7039648
-url_code: ''
+url_code: https://github.com/LiuXiangMath/PTA-SEL
 url_dataset: ''
 url_poster: ''
 url_project: ''
