@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D in Mathematics
       institution: Chern Institute of Mathematics, Nankai University
-      year: 2021-2024
+      year: 2021-present
     - course: M.S in Mathematics
       institution: School of Mathematical Sciences, Nankai University
       year: 2017-2020
