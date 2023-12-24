@@ -2,7 +2,7 @@
 title: "The metabolomic physics of complex diseases"
 authors: 
 - Shuang Wu
-- Xiang Liu
+- admin
 - Ang Dong
 - Claudia Gragnoli
 - Christopher Griffin
