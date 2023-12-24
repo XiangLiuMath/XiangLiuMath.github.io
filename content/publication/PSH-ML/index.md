@@ -1,7 +1,7 @@
 ---
 title: "Persistent spectral hypergraph based machine learning (PSH-ML) for protein-ligand binding affinity prediction"
 authors: 
-  - Xiang Liu
+  - admin
   - Huitao Feng
   - Jie Wu
   - Kelin Xia
