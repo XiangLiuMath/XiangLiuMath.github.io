@@ -42,6 +42,11 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      background:
+        gradient_end: '#E1FFFF'
+        gradient_start: '#E1FFFF'
+        text_color_light: true
   - block: experience
     id: exp
     content:
@@ -89,10 +94,7 @@ sections:
           # description: Supervised by [Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/)
     design:
       columns: '2'
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+      
 
   - block: collection
     id: publication
