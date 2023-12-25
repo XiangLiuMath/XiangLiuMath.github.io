@@ -40,7 +40,6 @@ sections:
     id: about
     content:
       title: Biography
-      <link rel="stylesheet" href="/assets/scss/custom.scss">
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
@@ -90,6 +89,10 @@ sections:
           # description: Supervised by [Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/)
     design:
       columns: '2'
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
 
   - block: collection
     id: publication
