@@ -58,7 +58,7 @@ sections:
         - title: Joint Phd Student, in [Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/)'s group
           company: School of Physical and Mathematical Sciences, Nanyang Technological University
           company_url: ''
-          # company_logo: org-gc
+          company_logo: ntu
           location: Singapore
           date_start: '2023-11-01'
           date_end: ''
