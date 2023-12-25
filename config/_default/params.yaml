@@ -38,7 +38,7 @@ header:
 
     logo:
       # Logo text
-      text: "hhhhhhhhhhhh"
+      text: ""
       # Logo filename in `assets/media/` folder
       filename: "ntu.svg"
     
