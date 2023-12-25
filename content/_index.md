@@ -40,6 +40,7 @@ sections:
     id: about
     content:
       title: Biography
+      <link rel="stylesheet" href="/assets/scss/custom.scss">
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
