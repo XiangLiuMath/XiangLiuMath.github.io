@@ -66,7 +66,7 @@ sections:
         - title: Visiting Scholar, in [Prof. Jie Wu](https://www.bimsa.cn/newsinfo/580993.html)'s group
           company: Yanqi Lake Beĳing Institute of mathematical sciences and applications (BIMSA)
           company_url: ''
-          # company_logo: org-x
+          company_logo: bimsa
           location: China
           date_start: '2022-08-01'
           date_end: '2023-10-01'
@@ -74,7 +74,7 @@ sections:
         - title: Visiting Research Fellow, in [Prof. Jie Wu](https://www.bimsa.cn/newsinfo/580993.html)'s group
           company: Center for Topology and Geometry based Technologies, Hebei Normal University
           company_url: ''
-          # company_logo: org-x
+          company_logo: hnu
           location: China
           date_start: '2020-09-01'
           date_end: '2021-09-01'
@@ -82,7 +82,7 @@ sections:
         - title: Visiting Student, in [Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/)'s group
           company: School of Physical and Mathematical Sciences, Nanyang Technological University
           company_url: ''
-          # company_logo: org-gc
+          company_logo: ntu
           location: Singapore
           date_start: '2019-12-01'
           date_end: '2020-07-01'
