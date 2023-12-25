@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="oo-MuFAJf5NiDySTta8ElYRJCLyuvm_rxZoYN0Ig4sY" />
 ---
 # Leave the homepage title empty to use the site title
 title: ''
