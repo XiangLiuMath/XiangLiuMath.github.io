@@ -42,11 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      background:
-        gradient_end: '#E1FFFF'
-        gradient_start: '#E1FFFF'
-        text_color_light: true
+    
   - block: experience
     id: exp
     content:
