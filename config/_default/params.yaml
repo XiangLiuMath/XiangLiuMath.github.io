@@ -35,6 +35,13 @@ header:
   navbar:
     enable: true
     align: l
+
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "ntu.svg"
+    
     show_logo: true
     show_language: false
     show_day_night: true
