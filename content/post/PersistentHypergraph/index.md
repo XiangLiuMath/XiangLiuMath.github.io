@@ -1,6 +1,6 @@
 ---
 title: Persistent Hypergraph based machine learning models
-# subtitle: Persistent Hypergraph based machine learning models
+subtitle: ICBS
 
 # Summary for listings and search engines
 summary: Persistent Hypergraph based machine learning models
