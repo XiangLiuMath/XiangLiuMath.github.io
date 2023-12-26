@@ -22,9 +22,7 @@ featured: false
 
 
 authors:
-  - Xiang Liu
-  - Jie Wu
-  - Kelin Xia
+  - admin
 
 tags:
   - Persistent Hypergraph
