@@ -3,7 +3,7 @@ title: Persistent Hypergraph based machine learning models
 # subtitle: ICBS
 
 # Summary for listings and search engines
-summary: The first International Congress of Basic Sciences
+summary: The first International Congress of Basic Sciences, Poster
 
 # Link this post with a project
 projects: []
