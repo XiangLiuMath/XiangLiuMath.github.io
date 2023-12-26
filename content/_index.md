@@ -182,6 +182,17 @@ sections:
       
       # Automatically link email and phone or display as text?
       autolink: true
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXX-X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-QG892LMJZJ');
+      </script>
+
     design:
       columns: '2'
 ---
