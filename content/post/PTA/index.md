@@ -3,7 +3,7 @@ title: Persistent Tor-Algebra for protein-protein interaction analysis
 # subtitle: Persistent Tor-Algebra for protein-protein interaction analysis
 
 # Summary for listings and search engines
-summary: Persistent Tor-Algebra for protein-protein interaction analysis
+summary: ICMMA 2022 International Conference on "Topology and its Applications to Engineering and Life Science", Poster
 
 # Link this post with a project
 projects: []
