@@ -22,8 +22,7 @@ featured: false
 
 
 authors:
-  - Xiang Liu
-  - Kelin Xia
+  - admin
 
 tags:
   - Persistent Tor-Algebra
