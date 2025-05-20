@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Phd Candidate 
+role: Visiting Assistant Professo 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chern Institute of Mathematics, Nankai University
-    url: http://www.nim.nankai.edu.cn/
+  - name: Department of Mathematics, Michigan State University
+    url: https://math.msu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Topological and Geometric data analysis, and Mathematical AI.
@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D in Mathematics
       institution: Chern Institute of Mathematics, Nankai University
-      year: 2021-present
+      year: 2021-2024
     - course: M.S in Mathematics
       institution: School of Mathematical Sciences, Nankai University
       year: 2017-2020
@@ -112,5 +112,5 @@ highlight_name: true
 ---
 Welcome to my website!
 
-I am a Phd Candidate at the Chern Institute of Mathematics of Nankai University under the supervision of [Prof. Huitao Feng](http://www.cim.nankai.edu.cn/2017/0629/c6720a70372/page.htm) and [Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/). My research interests include Topological and Geometric data Analysis, Machine learning, Deep learning and Mathematical AI. Particularly, I focus on using mathematical methods from topology and geometry to build mathematical AI models, and apply the mathematical AI models to real applications in molecular science.
+I am currently a visiting assistant professor in [Prof. Guo-Wei Wei](https://users.math.msu.edu/users/weig/)'s group in the Department of Mathematics at Michigan State University. I received my Ph.D. in 2024 under the supervision of [Prof. Huitao Feng](http://www.cim.nankai.edu.cn/2017/0629/c6720a70372/page.htm) and [Prof. Kelin Xia](https://personal.ntu.edu.sg/XIAKELIN/). My research interests include Topological and Geometric data Analysis, Machine learning, Deep learning and Mathematical AI. Particularly, I focus on using mathematical methods from topology and geometry to build mathematical AI models, and apply these models to real applications in molecular science.
 {style="text-align: justify;"}
