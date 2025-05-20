@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Visiting Assistant Professo 
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
