@@ -5,8 +5,8 @@ env:
 
 on:
   push:
-    branches: ["main"]  # Trigger on main branch pushes
-  workflow_dispatch:     # Allow manual triggering
+    branches: ["main"]  # Trigger on push to main
+  workflow_dispatch:     # Allow manual run from Actions tab
 
 permissions:
   contents: read
@@ -53,9 +53,9 @@ jobs:
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v2  # ✅ safe alternative to v3
+        uses: actions/upload-pages-artifact@v2  # ✅ Safe version
         with:
-          path: ./public
+          path: public
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
