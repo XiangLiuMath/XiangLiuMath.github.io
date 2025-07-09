@@ -3,31 +3,35 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master' if that is your default branch
+      - main  # or 'master' — change to match your default branch name
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout source
         uses: actions/checkout@v4
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.124.1'  # Change to your site's version if different
+          hugo-version: '0.124.1'  # or your preferred Hugo version
           extended: true
 
-      - name: Build
+      - name: Build site
         run: hugo --minify
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2  # ✅ No deprecated action here
+        uses: actions/upload-pages-artifact@v2  # ✅ Not deprecated!
 
   deploy:
     needs: build
